@@ -1,0 +1,8 @@
+# Ignorarea fișierelor cu extensia .txt
+*.txt
+
+# Ignorarea fișierelor cu extensia .log
+*.log
+
+# Ignorarea tuturor fișierelor din directorul dist
+dist/
